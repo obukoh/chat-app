@@ -12,7 +12,7 @@ chat screen used by Bob
 
 
 
-chat screen used by Jon
+chat screen used by John
 
 ![John](https://github.com/obukoh/chat-app/blob/master/others/images/John.PNG)
 
