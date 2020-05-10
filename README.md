@@ -2,25 +2,25 @@
 
 enter this page
 
-![username](./others/images/username.png)
+![username](https://github.com/obukoh/chat-app/blob/master/others/images/username.PNG)
 
 
 
 chat screen used by Bob
 
-![Bob](./others/images/Bob.png)
+![Bob](https://github.com/obukoh/chat-app/blob/master/others/images/Bob.PNG)
 
 
 
 chat screen used by Jon
 
-![John](./others/images/John.png)
+![John](https://github.com/obukoh/chat-app/blob/master/others/images/John.PNG)
 
 
 
 chat screen used by Mike
 
-![Mike](./others/images/Mike.png)
+![Mike](https://github.com/obukoh/chat-app/blob/master/others/images/Mike.PNG)
 
 
 
